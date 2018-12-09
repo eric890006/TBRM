@@ -1,5 +1,4 @@
-# TBRM
-Ontology-based Multi-Domain Sentiment Dataset
+The dataset for Taxonomy-based Regression Model (TBRM)
 
 # Overview
   This site distributes the ontology-based multi-domain sentiment dataset to support research on cross-domain sentiment classification. The idea of using Amazon product review data is originated from the <a href="http://www.cs.jhu.edu/~mdredze/datasets/sentiment/">multi-domain sentiment dataset</a> distributed by John Blitzer et al. The tree-structure of the Amazon shopping website is adopted in our dataset. A collection of product reviews from three different domains in Amazon, i.e., electronics, books and kitchen, were downloaded and a three-level tree structured for each domain is adopted. 
