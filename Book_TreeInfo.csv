@@ -1,0 +1,83 @@
+DomainRoot,L2 NodeID,L2 NodeName,L3 NodeID,L3 NodeName,PositiveReviewNum,NegativeReviewNum
+BookRoot,2,Biographies & Memoirs,2365,Ethnic & National,16012,1189
+BookRoot,2,Biographies & Memoirs,2376,Historical,14019,1080
+BookRoot,2,Biographies & Memoirs,2396,Leaders & Notable People,24173,1892
+BookRoot,2,Biographies & Memoirs,3048891,Memoirs,22617,2105
+BookRoot,2,Biographies & Memoirs,2419,Professionals & Academics,16616,1656
+BookRoot,2,Biographies & Memoirs,2437,Specific Groups,19456,2764
+BookRoot,2,Biographies & Memoirs,11314,True Accounts,10249,1341
+BookRoot,3,Business & Investing,2581,Economics,7514,1229
+BookRoot,3,Business & Investing,2624,Industries & Professions,7833,1338
+BookRoot,3,Business & Investing,2665,Investing,6596,1250
+BookRoot,3,Business & Investing,2675,Management & Leadership,15526,2088
+BookRoot,3,Business & Investing,2717,Personal Finance,12689,2213
+BookRoot,3,Business & Investing,355577011,Popular Economics,8477,1480
+BookRoot,4,Children's Books,3003,Humor,17419,1001
+BookRoot,4,Children's Books,3013,Science Fiction & Fantasy,35936,2087
+BookRoot,4,Children's Books,1084192,Social Situations,21726,1322
+BookRoot,12290,Christian Books & Bibles,334039011,Books on CD,13007,1856
+BookRoot,12290,Christian Books & Bibles,12333,Christian Living,19242,2397
+BookRoot,12290,Christian Books & Bibles,172806,Literature & Fiction,17024,2704
+BookRoot,12290,Christian Books & Bibles,12449,Theology,14084,2199
+BookRoot,12290,Christian Books & Bibles,12465,Worship & Devotion,7464,1281
+BookRoot,10,"Health, Fitness & Dieting",282840,Aging,10733,1132
+BookRoot,10,"Health, Fitness & Dieting",4613,Diets & Weight Loss,15344,1286
+BookRoot,10,"Health, Fitness & Dieting",4656,Disorders & Diseases,13243,1174
+BookRoot,10,"Health, Fitness & Dieting",4682,Mental Health,12590,1616
+BookRoot,10,"Health, Fitness & Dieting",282861,Nutrition,11003,1021
+BookRoot,10,"Health, Fitness & Dieting",282800,Personal Health,20109,2508
+BookRoot,10,"Health, Fitness & Dieting",11119,Psychology & Counseling,23128,3781
+BookRoot,10,"Health, Fitness & Dieting",4716,Recovery,5269,1014
+BookRoot,10,"Health, Fitness & Dieting",4729,Relationships,15164,1309
+BookRoot,10,"Health, Fitness & Dieting",4672,Women's Health,9556,1362
+BookRoot,9,History,4808,Americas,20795,2979
+BookRoot,9,History,4884,Asia,13128,1068
+BookRoot,9,History,5011,Military,22160,2786
+BookRoot,9,History,4853,United States,21722,3097
+BookRoot,9,History,5035,World,11422,1137
+BookRoot,17,Literature & Fiction,10016,British,12760,3198
+BookRoot,17,Literature & Fiction,10399,Classics,35611,4613
+BookRoot,17,Literature & Fiction,10129,Contemporary,49310,6868
+BookRoot,17,Literature & Fiction,10134,Genre Fiction,44123,8619
+BookRoot,17,Literature & Fiction,10177,Historical Fiction,21135,3184
+BookRoot,17,Literature & Fiction,10204,History & Criticism,7689,1316
+BookRoot,17,Literature & Fiction,4465,Humor,14611,3023
+BookRoot,17,Literature & Fiction,10132,Literary,40047,6523
+BookRoot,17,Literature & Fiction,10300,Short Stories,7881,1635
+BookRoot,17,Literature & Fiction,9822,United States,46371,8699
+BookRoot,17,Literature & Fiction,542654,Women's Fiction,42495,11066
+BookRoot,17,Literature & Fiction,10311,World Literature,22994,4342
+BookRoot,18,"Mystery, Thriller & Suspense",10457,Mystery,19566,4674
+BookRoot,18,"Mystery, Thriller & Suspense",10482,Police Procedurals,6474,1373
+BookRoot,18,"Mystery, Thriller & Suspense",10484,Thrillers,46523,8759
+BookRoot,20,Parenting & Relationships,11370,Family Relationships,10902,1225
+BookRoot,20,Parenting & Relationships,11401,Parenting,14339,2863
+BookRoot,20,Parenting & Relationships,4676,Pregnancy & Childbirth,6050,1081
+BookRoot,3377866011,Politics & Social Sciences,11019,Philosophy,11384,2046
+BookRoot,3377866011,Politics & Social Sciences,5571255011,Politics & Government,12338,2013
+BookRoot,3377866011,Politics & Social Sciences,11232,Social Sciences,19718,2420
+BookRoot,3377866011,Politics & Social Sciences,11288,Sociology,12193,1390
+BookRoot,173507,Professional & Technical,173509,Accounting & Finance,7015,1164
+BookRoot,173507,Professional & Technical,173516,Business Management,17861,2875
+BookRoot,173507,Professional & Technical,173510,Professional Science,9134,1041
+BookRoot,22,Religion & Spirituality,12489,Fiction,19190,3104
+BookRoot,22,Religion & Spirituality,12621,New Age,12488,2421
+BookRoot,22,Religion & Spirituality,12689,Occult,10954,2423
+BookRoot,22,Religion & Spirituality,12779,Religious Studies,8770,1934
+BookRoot,22,Religion & Spirituality,12809,Spirituality,26545,4603
+BookRoot,23,Romance,13354,Contemporary,32203,9681
+BookRoot,23,Romance,13356,Fantasy & Futuristic,16955,3355
+BookRoot,23,Romance,13371,Historical,11324,1309
+BookRoot,23,Romance,13434,Time Travel,9603,1797
+BookRoot,23,Romance,16399311,Vampires,8499,1696
+BookRoot,75,Science & Math,226685,Behavioral Sciences,6984,1094
+BookRoot,75,Science & Math,13871,History & Philosophy,10266,1507
+BookRoot,25,Science Fiction & Fantasy,16190,Fantasy,30061,5489
+BookRoot,25,Science Fiction & Fantasy,16272,Science Fiction,23859,3649
+BookRoot,4736,Self-Help,4744,Motivational,12777,1825
+BookRoot,4736,Self-Help,4745,Personal Transformation,19825,3847
+BookRoot,4736,Self-Help,4749,Success,13170,2152
+BookRoot,28,Teens,17441,Horror,16413,3969
+BookRoot,28,Teens,17443,Literature & Fiction,22515,2350
+BookRoot,28,Teens,17456,Love & Romance,22941,4425
+BookRoot,28,Teens,17466,Science Fiction & Fantasy,59092,6271

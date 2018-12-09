@@ -1,0 +1,60 @@
+DomainRoot,L2 NodeID,L2 NodeName,L3 NodeID,L3 NodeName,PositiveReviewNum,NegativeReviewNum
+ElectronicsRoot,281407,Accessories & Supplies,172532,Audio & Video Accessories,55871,8441
+ElectronicsRoot,281407,Accessories & Supplies,172435,Camera & Photo Accessories,60958,7594
+ElectronicsRoot,281407,Accessories & Supplies,2407755011,Cell Phone Accessories,75854,20546
+ElectronicsRoot,281407,Accessories & Supplies,172456,Computer Accessories,59621,8967
+ElectronicsRoot,281407,Accessories & Supplies,559942,GPS System Accessories,18112,2163
+ElectronicsRoot,281407,Accessories & Supplies,3236443011,Home Audio Accessories,10925,1336
+ElectronicsRoot,281407,Accessories & Supplies,172575,Office Electronics Accessories,9636,2067
+ElectronicsRoot,281407,Accessories & Supplies,173541,"Batteries, Chargers & Accessories",22079,3104
+ElectronicsRoot,281407,Accessories & Supplies,172607,Telephone Accessories,4672,1229
+ElectronicsRoot,281407,Accessories & Supplies,3230976011,Television Accessories,26015,4073
+ElectronicsRoot,281407,Accessories & Supplies,281408,Blank Media,7416,2163
+ElectronicsRoot,281407,Accessories & Supplies,12954861,Cables,40905,3304
+ElectronicsRoot,281407,Accessories & Supplies,10966911,Mounts,17165,1020
+ElectronicsRoot,281407,Accessories & Supplies,2223901011,Power Protection,16477,2029
+ElectronicsRoot,502394,Camera & Photo,281052,Digital Cameras,14560,2040
+ElectronicsRoot,502394,Camera & Photo,172421,Camcorders,6253,2121
+ElectronicsRoot,502394,Camera & Photo,499328,Printers & Scanners,6545,1912
+ElectronicsRoot,502394,Camera & Photo,898400,Surveillance Cameras,5733,1992
+ElectronicsRoot,502394,Camera & Photo,499306,Tripods & Monopods,9518,1007
+ElectronicsRoot,502394,Camera & Photo,3350161,Underwater Photography,8284,2971
+ElectronicsRoot,2811119011,Cell Phones & Accessories,2407748011,Prepaid Phones,3814,1473
+ElectronicsRoot,2811119011,Cell Phones & Accessories,2407749011,Unlocked Phones,4924,2377
+ElectronicsRoot,541966,Computers & Accessories,1232596011,Netbooks,5726,1231
+ElectronicsRoot,541966,Computers & Accessories,1232597011,Tablets,43081,9855
+ElectronicsRoot,541966,Computers & Accessories,1292110011,External Data Storage,36914,7617
+ElectronicsRoot,541966,Computers & Accessories,172504,Networking Products,33299,8087
+ElectronicsRoot,541966,Computers & Accessories,172635,Printers,7221,1970
+ElectronicsRoot,541966,Computers & Accessories,172584,Scanners,6239,1876
+ElectronicsRoot,541966,Computers & Accessories,2226256011,"PDAs, Handhelds & Accessories",4818,2059
+ElectronicsRoot,541966,Computers & Accessories,172487,Game Hardware,16496,4298
+ElectronicsRoot,541966,Computers & Accessories,172511,Webcams,8848,1664
+ElectronicsRoot,541966,Computers & Accessories,193870011,Computer Components,19832,2627
+ElectronicsRoot,541966,Computers & Accessories,3012292011,External Components,4109,1189
+ElectronicsRoot,2642125011,eBook Readers & Accessories,2642129011,eBook Readers,260318,32834
+ElectronicsRoot,2642125011,eBook Readers & Accessories,2642131011,Covers,48505,5232
+ElectronicsRoot,2642125011,eBook Readers & Accessories,2642134011,Reading Lights,6124,1328
+ElectronicsRoot,2642125011,eBook Readers & Accessories,2642135011,Screen Protectors,1638,1071
+ElectronicsRoot,2642125011,eBook Readers & Accessories,2642137011,Sleeves,11581,1420
+ElectronicsRoot,172526,GPS & Navigation,219536011,Sports & Handheld GPS,12689,3408
+ElectronicsRoot,172526,GPS & Navigation,559938,Vehicle GPS,34287,11068
+ElectronicsRoot,667846011,Home Audio,322215011,Multiroom Digital Music Systems,4803,1183
+ElectronicsRoot,667846011,Home Audio,3236445011,Radios,11091,2444
+ElectronicsRoot,667846011,Home Audio,3236449011,Stereo Components,10195,1529
+ElectronicsRoot,172574,Office Electronics,281418,Other Office Equipment,5975,1208
+ElectronicsRoot,172574,Office Electronics,300333,Presentation Products,5764,1325
+ElectronicsRoot,172574,Office Electronics,172606,Telephones & Accessories,19995,3963
+ElectronicsRoot,172623,Portable Audio & Video,172633,Boomboxes,3715,1363
+ElectronicsRoot,172623,Portable Audio & Video,172630,MP3 Players & Accessories,44285,8407
+ElectronicsRoot,172623,Portable Audio & Video,465608,Portable CD Players,1562,1049
+ElectronicsRoot,172623,Portable Audio & Video,172681,Radios,13555,2683
+ElectronicsRoot,524136,Security & Surveillance,3180341,Home Security Systems,3797,1074
+ElectronicsRoot,524136,Security & Surveillance,14248481,Surveillance Video Equipment,3962,1728
+ElectronicsRoot,1266092011,Television & Video,3213025011,Blu-ray Players & Recorders,6037,3103
+ElectronicsRoot,1266092011,Television & Video,13447451,Digital Media Devices,12578,3961
+ElectronicsRoot,1266092011,Television & Video,3213027011,DVD Players & Recorders,4703,1832
+ElectronicsRoot,1266092011,Television & Video,886258,DVD-VCR Combos,1482,1188
+ElectronicsRoot,1266092011,Television & Video,172659,Televisions,9797,1655
+ElectronicsRoot,3248684011,Car & Vehicle Electronics,1077068,Car Electronics,9951,2328
+ElectronicsRoot,3248684011,Car & Vehicle Electronics,10981291,Vehicle Electronics Accessories,27183,4180
